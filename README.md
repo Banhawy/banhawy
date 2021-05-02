@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a FreeCodeCamp chrome extension that bookmarks blog articles on news.freecodecamp.org
 - 🌱 I’m currently learning Ionic and Go
-- 👯 I’m looking to collaborate on building a SaaS product 
+- 👯 I’m looking to collaborate on building a SaaS produc at some point
 - 🤔 I’m looking for help with any of the above
 - 📫 How to reach me: the.benhawy@gmail.com
 - 😄 Pronouns: He/Him
