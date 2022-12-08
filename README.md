@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on writing more articles on Web 3.
-- 🌱 I’m currently learning Solidity
+- 🔭 I’m currently getting certified in AWS and Kubernetes.
+- 🌱 I’m currently toying with FastAPI and Terraform.
 - 👯 I’m looking to collaborate on building a SaaS produc at some point
 - 🤔 I’m looking for help with any of the above
 - 📫 How to reach me: the.benhawy@gmail.com
