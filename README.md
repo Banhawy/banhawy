@@ -7,7 +7,7 @@
 - 📫 How to reach me: the.benhawy@gmail.com
 - 😄 Pronouns: He/Him
 
-[![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=banhawy&show_icons=true&theme=react))](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=banhawy&show_icons=true&theme=react))](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
